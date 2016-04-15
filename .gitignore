@@ -11,7 +11,7 @@
 *.iml
 *.ipr
 *.iws
-.gradle
+.gradle/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
