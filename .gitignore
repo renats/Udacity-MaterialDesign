@@ -4,10 +4,12 @@
 *.class
 
 # Intellij project files
-.idea/
+.idea/*
 *.iml
 *.ipr
 *.iws
+.gradle
+XYZReader/build/*
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -43,7 +45,6 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
-
 
 # OsX Finder (hidden) files
 **/.DS_Store
