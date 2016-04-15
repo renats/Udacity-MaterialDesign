@@ -233,15 +233,22 @@ public class ArticleDetailFragment extends Fragment implements
     @Override
     public void onLoadFinished(Loader<Cursor> cursorLoader, Cursor cursor) {
         if (!isAdded()) {
+            Log.i("DBG", "isAdded returned FALSE");
             if (cursor != null) {
                 cursor.close();
             }
             return;
         }
+        else {
+            Log.i("DBG", "isAdded returned TRUE");
+        }
 
         mCursor = cursor;
         if (mCursor != null && !mCursor.moveToFirst()) {
-            Log.e(TAG, "Error reading item detail cursor");
+            if (mCursor != null)
+                Log.e(TAG, "Error reading item detail cursor " + "mCursor not null");
+            else
+                Log.e(TAG, "Error reading item detail cursor " + "mCursor IS null");
             mCursor.close();
             mCursor = null;
         }
