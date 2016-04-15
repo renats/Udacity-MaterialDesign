@@ -1,2 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/rena/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_1706d472dd46da4eaed5b549c6a90f92caa55a19.jar" />
+    </item>
+    <item
+        jar="/Users/rena/Udacity-MetroDesign/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/pre-dexed/debug/volley_f1bf557d3d867aaed4b1f92ad84b5135bf377dec.jar" />
+    </item>
+    <item
+        jar="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.0.0_d06d8d5a905403feed050ce137dc7b6b5cef14ab.jar" />
+    </item>
+    <item
+        jar="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.0.0_228bc703a99950478a6de04cebf851f2a87b646e.jar" />
+    </item>
+    <item
+        jar="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-22.0.0_c7fdd3affd51b17606a43f696b1656d34f637afc.jar" />
+    </item>
+    <item
+        jar="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.0.0_994978692e5ce55df979f6e2e712e6168a13c676.jar" />
+    </item>
+    <item
+        jar="/Users/rena/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.0.0_d1ae11c43abd31a3f6a9d22fce6c3c700bc9cb04.jar" />
+    </item>
+    <item
+        jar="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-22.0.0_9bac9b0ad116eb30889413aea8d6065c60b2f5b4.jar" />
+    </item>
+    <item
+        jar="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_8d3ed570021d26be3a6b9069aed4591099284283.jar" />
+    </item>
+    <item
+        jar="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-22.0.0_b809a7450893242914746e2bcb3b70fe5abe931d.jar" />
+    </item>
+    <item
+        jar="/Users/rena/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_0b31d8f923a8b8e0f3634994e49d74cf69bab2d7.jar" />
+    </item>
+    <item
+        jar="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/rena/Udacity-MetroDesign/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_99d1040dc5a9af3552ec2fec5a96111fcb99a65f.jar" />
+    </item>
+
+</items>
