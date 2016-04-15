@@ -1,5 +1,8 @@
 # Created by https://www.gitignore.io
 
+.*
+!/.gitignore
+
 ### Java ###
 *.class
 
@@ -9,7 +12,6 @@
 *.ipr
 *.iws
 .gradle
-XYZReader/build/*
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
