@@ -29,6 +29,10 @@
 
     <style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:colorPrimary">@color/cyan_500</item>
+        <item name="android:colorPrimaryDark">@color/cyan_700</item>
+        <item name="android:colorAccent">@color/pink_a100</item>
     </style>
+
 
 </resources>
