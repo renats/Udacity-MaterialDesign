@@ -18,7 +18,13 @@
 <resources>
 
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
-
+        <item name="android:colorPrimary">@color/cyan_500</item>
+        <item name="android:colorPrimaryDark">@color/cyan_700</item>
+        <item name="android:colorAccent">@color/pink_a100</item>
+    </style>
+    <style name="Theme.Bacon.ActionBar" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorPrimary">@color/cyan_500</item>
+        <item name="android:background">@color/cyan_500</item>
     </style>
 
     <style name="Theme.Bacon.Detail">
